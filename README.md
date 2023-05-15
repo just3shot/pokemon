@@ -1,4 +1,4 @@
-# HiringAssignment for SGAG
+# Hiring Assignment for SGAG
 
 1) Consumption of Web Services / API: https://pokeapi.co/ 
 
